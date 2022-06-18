@@ -4,17 +4,6 @@
 JavaScriptES6
 
 -   By Johann Kerbrat, Engineering Manager at Uber Works
--   Weight: 1
--   Ongoing second chance project - started 
-
-    Jun 14, 2022
-
-    , must end by 
-
-    Jun 18, 2022
-
-     - you're done with 0% of tasks.
--   An auto review will be launched at the deadline
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/75862d67ca51a042003c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220617%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220617T231326Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=74ee7d7bb4ab94184148496ecc48a121ddfe8e5502e3be36a047a30ee75f82c0)
 
