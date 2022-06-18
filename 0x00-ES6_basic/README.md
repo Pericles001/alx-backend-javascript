@@ -6,13 +6,7 @@ JavaScriptES6
 -   By Johann Kerbrat, Engineering Manager at Uber Works
 
 
-#### In a nutshell...
 
--   **Auto QA review:** 0.0/41 mandatory & 0.0/4 optional
--   **Altogether:**  **0.0%**
-    -   Mandatory: 0.0%
-    -   Optional: 0.0%
-    -   Calculation:  0.0% + (0.0% * 0.0%)  == **0.0%**
 
 ### Concepts
 
