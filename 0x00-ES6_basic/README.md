@@ -4,25 +4,9 @@
 JavaScriptES6
 
 -   By Johann Kerbrat, Engineering Manager at Uber Works
--   Weight: 1
--   Project over - took place from 
 
-    Jun 13, 2022
 
-     to 
 
-    Jun 16, 2022
-
-     - you're done with 0% of tasks.
--   An auto review will be launched at the deadline
-
-#### In a nutshell...
-
--   **Auto QA review:** 0.0/41 mandatory & 0.0/4 optional
--   **Altogether:**  **0.0%**
-    -   Mandatory: 0.0%
-    -   Optional: 0.0%
-    -   Calculation:  0.0% + (0.0% * 0.0%)  == **0.0%**
 
 ### Concepts
 
