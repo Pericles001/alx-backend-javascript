@@ -4,25 +4,6 @@
 OOPJavaScriptES6
 
 -   By Johann Kerbrat, Engineering Manager at Uber Works
--   Weight: 1
--   Project over - took place from 
-
-    Jun 16, 2022
-
-     to 
-
-    Jun 17, 2022
-
-     - you're done with 0% of tasks.
--   An auto review will be launched at the deadline
-
-#### In a nutshell...
-
--   **Auto QA review:** 0.0/33 mandatory & 0.0/3 optional
--   **Altogether:**  **0.0%**
-    -   Mandatory: 0.0%
-    -   Optional: 0.0%
-    -   Calculation:  0.0% + (0.0% * 0.0%)  == **0.0%**
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/817248fb77fb5c2cef3f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220619%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220619T232813Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c219ffe33b9a4e14dc1d4d106f0698cdda69327bbde744fea0bd386e293f26d4)
 
