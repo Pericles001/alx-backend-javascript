@@ -4,14 +4,42 @@ interface Teacher {
     fullTimeEmployee: boolean,
     yearsOfExperience?: number,
     location: string,
+
     [propName: string]: any
 }
 
-interface Directors extends Teacher{
+interface Directors extends Teacher {
     numberOfReports: number,
 }
 
+interface printTeacherFunction {
+    (firstName: string, lastName: string): string;
+}
 
-const printTeacher = (firstName: string, lastName: string) => `${firstName.charAt(0)}. ${lastName}`;
+const printTeacher: printTeacherFunction = (firstName: string, lastName: string): string => `${firstName.charAt(0)}. ${lastName}`;
 
-printTeacher("John", "Doe")
+interface classInterface {
+    workOnHomework(): string,
+
+    displayName(): string
+}
+
+class StudentClass implements classInterface{
+    firstName: string;
+    lastName: string;
+
+    constructor(firstName: string, lastName: string) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+
+    displayName(): string {
+        return this.firstName;
+    }
+
+    workOnHomework(): string {
+        return "Currently working";
+    }
+
+}
