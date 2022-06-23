@@ -369,11 +369,11 @@ export function updateRow(rowId, row) {
 
 ```
 
-Write an ambient file within `task_3/js`, named `crud.d.ts` containing the type declarations for each crud function. At the top of the file import `RowID` and `RowElement` from `interface.ts`.
+Write an ambient file within `task_3/js`, named `crud.js` containing the type declarations for each crud function. At the top of the file import `RowID` and `RowElement` from `interface.ts`.
 
 In `main.ts`
 
--   At the top of the file create a [triple slash directive](https://alx-intranet.hbtn.io/rltoken/91U8IZgcc9cmk216FFy0-Q "triple slash directive") that includes all the dependencies from `crud.d.ts`
+-   At the top of the file create a [triple slash directive](https://alx-intranet.hbtn.io/rltoken/91U8IZgcc9cmk216FFy0-Q "triple slash directive") that includes all the dependencies from `crud.js`
 -   Import the `rowID` type and `rowElement` from `interface.ts`
 -   Import everything from `crud.js` as `CRUD`
 
@@ -415,7 +415,7 @@ Requirements:
 
 -   GitHub repository: `alx-backend-javascript`
 -   Directory: `0x04-TypeScript`
--   File: `task_3/js/main.ts, task_3/js/interface.ts, task_3/js/crud.d.ts`
+-   File: `task_3/js/main.ts, task_3/js/interface.ts, task_3/js/crud.js`
 
  Done? Help
 
