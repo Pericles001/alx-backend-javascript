@@ -16,7 +16,7 @@ namespace Subjects {
         "test";
         10
     }
-    cpp.teacher = cTeacher;
+    /*cpp.teacher = cTeacher;
     console.log(cpp.name);
     console.log(cpp.getRequirements());
     console.log(cpp.getAvailableTeacher());
@@ -27,7 +27,7 @@ namespace Subjects {
     react.teacher = cTeacher;
     console.log(react.name);
     console.log(react.getRequirements());
-    console.log(react.getAvailableTeacher());
+    console.log(react.getAvailableTeacher());*/
 
 
 }
