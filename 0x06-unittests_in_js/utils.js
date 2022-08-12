@@ -1,20 +1,20 @@
 const Utils = {
     calculateNumber: function calculateNumber(type, a, b) {
-        if (typeof (type) == String || type == 'SUM' || type == 'SUBTRACT' || type == 'DIVIDE') {
-            if (type == 'SUM') {
-                return Math.round(a) + Math.round(b);
-            } else if (type == 'SUBTRACT') {
-                return Math.round(a) - Math.round(b);
-            } else if (type == 'DIVIDE') {
-                if (Math.round(b) != 0) {
-                    return Math.round(a) / Math.round(b);
-                }
-                return 'Error';
-            }
-        } else {
-            return 'Error'
+      if (type === 'SUM') {
+        return Math.round(a) + Math.round(b);
+      }
+      if (type === 'SUBTRACT') {
+        return Math.round(a) - Math.round(b);
+      }
+      if (type === 'DIVIDE') {
+        if (Math.round(b) === 0) {
+          return 'Error';
         }
-    }
-}
-
-module.exports = Utils;
+        return Math.round(a) / Math.round(b);
+      }
+      return 0;
+    },
+  };
+  
+  module.exports = Utils;
+  
